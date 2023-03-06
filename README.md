@@ -1,2 +1,4 @@
 # Skripsi
-Ini upload skripsi ku dewe
+This is my thesis
+
+
